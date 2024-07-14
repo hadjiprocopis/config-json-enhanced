@@ -760,9 +760,9 @@ You can also look for information at:
 
 L<https://rt.cpan.org/NoAuth/Bugs.html?Dist=Config-JSON-Enhanced>
 
-=item * CPAN Ratings
+=item * Review this module at PerlMonks
 
-L<https://cpanratings.perl.org/d/Config-JSON-Enhanced>
+L<https://www.perlmonks.org/?node_id=21144>
 
 =item * Search CPAN
 

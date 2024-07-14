@@ -477,9 +477,9 @@ You can also look for information at:
 
     [https://rt.cpan.org/NoAuth/Bugs.html?Dist=Config-JSON-Enhanced](https://rt.cpan.org/NoAuth/Bugs.html?Dist=Config-JSON-Enhanced)
 
-- CPAN Ratings
+- Review this module at PerlMonks
 
-    [https://cpanratings.perl.org/d/Config-JSON-Enhanced](https://cpanratings.perl.org/d/Config-JSON-Enhanced)
+    [https://www.perlmonks.org/?node\_id=21144](https://www.perlmonks.org/?node_id=21144)
 
 - Search CPAN
 
